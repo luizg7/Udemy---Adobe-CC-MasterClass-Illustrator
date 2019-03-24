@@ -8,7 +8,7 @@
 ![Check List](/Projects/Icons/Icons-1-02.png)
 
 1. Plus Symbol
-![Plus Symbol](/Projects\Icons/Icons-1-03.png)
+![Plus Symbol](/Projects/Icons/Icons-1-03.png)
 
 1. Iphone
 ![Iphone](/Projects/Icons/Icons-1-04.png)
