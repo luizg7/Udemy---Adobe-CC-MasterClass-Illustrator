@@ -2,7 +2,7 @@
 # Icons
 
 1. Magnifier Glass
-![Magnifier Glass](/Projects\Icons\Icons-1-01.png)
+![alt-text](/Projects\Icons\Icons-1-01.png)
 
 1. Check List
 ![Check List](/Projects\Icons\Icons-1-02.png)
