@@ -5,7 +5,6 @@
 ![Magnifier Glass](/Projects/Icons/Icons-1-01.png)
 
 1. Check List
-
 ![Check List](/Projects/Icons/Icons-1-02.png)
 
 1. Plus Symbol
