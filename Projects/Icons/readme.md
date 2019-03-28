@@ -5,14 +5,12 @@
 ![Magnifier Glass](/Projects/Icons/Icons-1-01.png)
 
 
-
-1
-* Check List
-![Check List](/Projects/Icons/Icons-1-02.png)
-
-
 * Plus Symbol
 ![Plus Symbol](/Projects/Icons/Icons-1-03.png)
+
+
+* Check List
+![Check List](/Projects/Icons/Icons-1-02.png)
 
 
 * Iphone
