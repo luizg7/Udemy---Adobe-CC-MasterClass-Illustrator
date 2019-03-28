@@ -1,21 +1,21 @@
 
 # Icons
 
-* Magnifier Glass
-![Magnifier Glass](/Projects/Icons/Icons-1-01.png)
+Magnifier Glass
+![Git Hub](/Projects/Icons/Icons-1-01.png)
 
 
-* Plus Symbol
-![Plus Symbol](/Projects/Icons/Icons-1-03.png)
+Plus Symbol
+![Git Hub](/Projects/Icons/Icons-1-03.png)
 
 
-* Check List
-![Check List](/Projects/Icons/Icons-1-02.png)
+Check List
+![Git Hub](/Projects/Icons/Icons-1-02.png)
 
 
-* Iphone
-![Iphone](/Projects/Icons/Icons-1-04.png)
+Iphone
+![Git Hub](/Projects/Icons/Icons-1-04.png)
 
 
-* Ipad
-![Ipad](/Projects/Icons/Icons-1-05.png)
+Ipad
+![Git Hub](/Projects/Icons/Icons-1-05.png)
