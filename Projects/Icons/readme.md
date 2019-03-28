@@ -1,12 +1,8 @@
 
 # Icons
-
-![image](link)&nbsp;&nbsp;&nbsp;&nbsp;text
-![image](link)&nbsp;&nbsp;&nbsp;&nbsp;text
-![image](link)&nbsp;&nbsp;&nbsp;&nbsp;text
-![image](link)&nbsp;&nbsp;&nbsp;&nbsp;text
-![image](link)&nbsp;&nbsp;&nbsp;&nbsp;text
-
+<br> </br>
+<br> </br>
+<br> </br>
 Magnifier Glass
 ![Git Hub](/Projects/Icons/Icons-1-01.png)
 
